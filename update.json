@@ -3,8 +3,8 @@
   "versionCode": 4,
   "zipUrl": "https://github.com/sudo-apt-mustafa/ExtremeROM-Bootloop-fix/releases/download/v1.4/ExtremeROM.Anti-Bootloop.v1.4.zip",
     "changelog": [
-    "Fixed counter"
-    "Using counter to disable every module causing any problems"
-    "Added Logging"
+    "Fixed counter",
+    "Using counter to disable every module causing any problems",
+    "Added Logging",
   ]
 }
