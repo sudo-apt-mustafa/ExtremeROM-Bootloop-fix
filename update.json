@@ -1,6 +1,6 @@
 {
-  "version": "v1.3",
-  "versionCode": 3,
+  "version": "v1.4",
+  "versionCode": 4,
   "zipUrl": "https://github.com/sudo-apt-mustafa/ExtremeROM-Bootloop-fix/releases/download/v1.3/ExtremeROM.Anti-Bootloop.v1.3.zip",
     "changelog": [
     "Fixed counter",
