@@ -39,8 +39,6 @@
   
   If bootloop 2 times then:Disable modules
   
-  Auto Recovery mode
-  
   Cache wipe
 
   Emergency mode (Bootloop 3 times in a row) (,Oat/VDEX removal,module temp files removal,Broken overlay cache removal,APM cache removal,ANR log removal,)
