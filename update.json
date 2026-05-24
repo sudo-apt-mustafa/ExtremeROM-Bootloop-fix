@@ -2,7 +2,8 @@
   "version": "v1.5",
   "versionCode": 5,
   "zipUrl": "https://github.com/sudo-apt-mustafa/ExtremeROM-Bootloop-fix/releases/download/v1.5/ExtremeROMAntiBootloopv1.5.zip",
-    "changelog": [
-    "Go read readme",
+  "changelog": [
+    "Full changelog:",
+    "https://raw.githubusercontent.com/sudo-apt-mustafa/ExtremeROM-Bootloop-fix/main/README.md"
   ]
 }
