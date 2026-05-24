@@ -37,9 +37,7 @@
   
   If bootloop 1 time then:Delete apex all.
   
-  If bootloop 2 times then:Disable modules.
-  
-  Unsupported root detection
+  If bootloop 2 times then:Disable modules
   
   Auto Recovery mode
   
