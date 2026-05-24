@@ -45,8 +45,11 @@
   
   Cache wipe
 
-  Emergency mode (Bootloop 3 times in a row) (Removes all the modules,Oat/VDEX removal,module temp files removal,Broken overlay cache removal,APM cache removal,ANR log removal,)
+  Emergency mode (Bootloop 3 times in a row) (,Oat/VDEX removal,module temp files removal,Broken overlay cache removal,APM cache removal,ANR log removal,)
 
+Logs will get saved to Data/Adb/ExtremeROMBF.log
+
+Logs will get deleted after boot
 
 
 
