@@ -8,8 +8,10 @@
   Changelogs:
   v1.2:
   First version 
+  
   v1.3:
   Added Buggy boot counter
+  
   v1.4:
   Added logging (You can see the logs with the name ExtremeROMBF)
   Fixed the boot counter
@@ -26,6 +28,9 @@
   Unsupported root detection
   Auto Recovery mode
   Cache wipe
+
+
+
 
 
 
