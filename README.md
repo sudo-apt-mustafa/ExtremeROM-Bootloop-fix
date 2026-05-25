@@ -27,13 +27,8 @@
   If bootloop 1 time then:Delete apex all.
   If bootloop 2 times then:Disable modules
   Emergency mode (Bootloop 3 times in a row) (,Oat/VDEX removal,module temp files removal,Broken overlay cache removal,APM cache removal,ANR log removal,)
-
 Logs will get saved to Data/Adb/ExtremeROMBF.log
-
 Logs will get deleted after boot
 
-
-
-
-
- Version 1.5 will come out shortly!
+v2.0.0:
+Too curious? Go check yourself.
